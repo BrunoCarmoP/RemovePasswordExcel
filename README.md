@@ -1,4 +1,4 @@
-# 🔓 XLSX Sheet Unlocker - Ferramenta de Desproteção de Planilhas Excel em Python
+# 🔓 Sheet Unlocker - Ferramenta de Desproteção de Planilhas Excel em Python
 
 [![Feito com Python](https://img.shields.io/badge/Feito%20com-Python-blue)](https://www.python.org/)
 [![Licença MIT](https://img.shields.io/badge/Licen%C3%A7a-MIT-blue.svg)](LICENSE)
@@ -44,4 +44,5 @@ pip install openpyxl
 
 
 ### Desenvolvido por @BrunoCarmoP
+
 
