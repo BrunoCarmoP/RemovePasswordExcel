@@ -38,4 +38,9 @@ O script concentra-se em uma única e crucial tarefa: desabilitar as restriçõe
 O projeto requer a biblioteca `openpyxl` para manipulação de arquivos Excel.
 
 ```bash
+
 pip install openpyxl
+
+
+
+Desenvolvido por @BrunoCarmoP
