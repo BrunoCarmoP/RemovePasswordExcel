@@ -40,7 +40,8 @@ O projeto requer a biblioteca `openpyxl` para manipulação de arquivos Excel.
 ```bash
 
 pip install openpyxl
+```
 
 
+### Desenvolvido por @BrunoCarmoP
 
-Desenvolvido por @BrunoCarmoP
